@@ -1,0 +1,285 @@
+﻿++Solución "portfolio" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:portfolio.sln
+++portfolio
+i:{00000000-0000-0000-0000-000000000000}:portfolio
+++Connected Services 
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:>469
+++Dependencias
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:>468
+++Properties
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\properties\
+++launchSettings.json
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\properties\launchsettings.json
+++serviceDependencies.json
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\properties\servicedependencies.json
+++wwwroot
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\
+++css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\css\
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\js\
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\
+++favicon.ico
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\favicon.ico
+++Areas
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\areas\
+++Identity
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\areas\identity\
+++Pages
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\areas\identity\pages\
+++_ViewStart.cshtml
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\areas\identity\pages\_viewstart.cshtml
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\_viewstart.cshtml
+++Controllers
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\controllers\
+++HomeController.cs
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\controllers\homecontroller.cs
+++Data
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\data\
+++Migrations
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\data\migrations\
+++ApplicationDbContext.cs
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\data\applicationdbcontext.cs
+++Images
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\images\
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\images\
+++Models
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\models\
+++Class.cs
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\models\class.cs
+++ErrorViewModel.cs
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\models\errorviewmodel.cs
+++Views
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\
+++Home
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\home\
+++Contacto.cshtml
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\home\contacto.cshtml
+++Index.cshtml
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\home\index.cshtml
+++Proyectos.cshtml
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\home\proyectos.cshtml
+++Shared
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\shared\
+++_Layout.cshtml
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\shared\_loginpartial.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\_viewimports.cshtml
+++appsettings.json
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\appsettings.json
+++appsettings.Development.json
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\appsettings.development.json
+++Program.cs
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\program.cs
+++SQL Server Express LocalDB (local) (ConnectionStrings:DefaultConnection)
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:>493
+++Analizadores
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:analizadores
+++Marcos de trabajo
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:marcos de trabajo
+++Paquetes
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:paquetes
+++serviceDependencies.local.json
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\properties\servicedependencies.local.json
+++dotnet.png
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\css\dotnet.png
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\images\dotnet.png
+++MyStyleSheet.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\css\mystylesheet.css
+++rosa.png
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\css\rosa.png
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\images\rosa.png
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\images\rosa.png
+++site.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\css\site.css
+++site.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\js\site.js
+++bootstrap
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\
+++jquery
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery\
+++jquery-validation
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation-unobtrusive\
+++00000000000000_CreateIdentitySchema.cs
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\data\migrations\00000000000000_createidentityschema.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\data\migrations\applicationdbcontextmodelsnapshot.cs
+++_Layout.cshtml.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\views\shared\_layout.cshtml.css
+++Microsoft.AspNetCore.Analyzers
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\users\mariomolrol\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\microsoft.netcore.app
+++Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore (6.0.2)
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:>489
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.2)
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:>490
+++Microsoft.AspNetCore.Identity.UI (6.0.2)
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:>492
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:>488
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:>491
+++dist
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery\dist\
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery\license.txt
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++00000000000000_CreateIdentitySchema.Designer.cs
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\data\migrations\00000000000000_createidentityschema.designer.cs
+++jquery.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++Class1.cs
+++NewFolder
+++Services
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\services\
+++RepositoryOfProjects.cs
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\services\repositoryofprojects.cs
+++ClassProjects.cs
+i:{ee1ed87f-3530-4df3-8c51-9d77b5be3be8}:e:\repos 2\portfolio\portfolio\models\classprojects.cs
+++NewFolder1
